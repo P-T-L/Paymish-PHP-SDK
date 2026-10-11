@@ -1,7 +1,7 @@
 # Paymish PHP SDK
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/bhekor/paymish-php.svg?style=flat-square)](https://packagist.org/packages/bhekor/paymish-php)
-[![GitHub Tests Action Status](https://img.shields.io/github/actions/workflow/status/bhekor/paymish-php/tests.yml?branch=main&label=tests&style=flat-square)](https://github.com/bhekor/paymish-php/actions?query=workflow%3ATests+branch%3Amain)
+[![GitHub Tests Action Status](https://img.shields.io/github/actions/workflow/status/bhekor/paymish-php/tests.yml?branch=master&label=tests&style=flat-square)](https://github.com/bhekor/paymish-php/actions?query=workflow%3ATests+branch%3Amaster)
 [![Total Downloads](https://img.shields.io/packagist/dt/bhekor/paymish-php.svg?style=flat-square)](https://packagist.org/packages/bhekor/paymish-php)
 [![License](https://img.shields.io/packagist/l/bhekor/paymish-php.svg?style=flat-square)](LICENSE.md)
 
