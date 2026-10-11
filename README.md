@@ -1,9 +1,8 @@
 # Paymish PHP SDK
 
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/bhekor/paymish-php.svg?style=flat-square)](https://packagist.org/packages/bhekor/paymish-php)
-[![GitHub Tests Action Status](https://img.shields.io/github/actions/workflow/status/bhekor/paymish-php/tests.yml?branch=master&label=tests&style=flat-square)](https://github.com/bhekor/paymish-php/actions?query=workflow%3ATests+branch%3Amaster)
-[![Total Downloads](https://img.shields.io/packagist/dt/bhekor/paymish-php.svg?style=flat-square)](https://packagist.org/packages/bhekor/paymish-php)
-[![License](https://img.shields.io/packagist/l/bhekor/paymish-php.svg?style=flat-square)](LICENSE.md)
+[![Latest Version](https://img.shields.io/github/v/tag/bhekor/paymish-php?label=version&style=flat-square&sort=semver)](https://github.com/bhekor/paymish-php/releases)
+[![Tests](https://github.com/bhekor/paymish-php/actions/workflows/tests.yml/badge.svg)](https://github.com/bhekor/paymish-php/actions/workflows/tests.yml)
+[![License](https://img.shields.io/github/license/bhekor/paymish-php?style=flat-square)](LICENSE.md)
 
 Framework-agnostic PHP SDK for the [Paymish](https://paymish.com) payment gateway. Covers transactions, transfers, virtual accounts, subscriptions, products, customers, and more.
 
