@@ -1,0 +1,55 @@
+{
+    "name": "bhekor/paymish-php",
+    "description": "Official-style PHP SDK for the Paymish payment gateway API",
+    "keywords": [
+        "paymish",
+        "payment",
+        "gateway",
+        "nigeria",
+        "api",
+        "sdk",
+        "php"
+    ],
+    "homepage": "https://github.com/bhekor/paymish-php",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ibidapo Adeolu",
+            "email": "adeoluibidapo@gmail.com",
+            "homepage": "https://github.com/bhekor",
+            "role": "Developer"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/bhekor/paymish-php/issues",
+        "source": "https://github.com/bhekor/paymish-php"
+    },
+    "require": {
+        "php": "^8.2",
+        "guzzlehttp/guzzle": "^7.0",
+        "psr/simple-cache": "^3.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^10.0|^11.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Bhekor\\Paymish\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Bhekor\\Paymish\\Tests\\": "tests/"
+        }
+    },
+    "scripts": {
+        "test": "vendor/bin/phpunit",
+        "test-coverage": "vendor/bin/phpunit --coverage-html coverage"
+    },
+    "config": {
+        "sort-packages": true
+    },
+    "minimum-stability": "stable",
+    "prefer-stable": true
+}
